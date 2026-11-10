@@ -10,7 +10,7 @@ readme = "../../README.md"
 [dependencies]
 anymap2 = "0.13"
 bincode = "1"
-gloo-console = "0.2"
+gloo-console = "0.4"
 gloo-utils = "0.1"
 js-sys = "0.3"
 serde = { version = "1", features = ["derive"] }
